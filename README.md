@@ -45,8 +45,3 @@ Hello! I'm a final-year Software Engineering student with a strong passion for d
 - **Link to Project:** [Sales Dashboard](https://app.powerbi.com/links/Db6WzH4UrM?ctid=9467288a-63c7-4f68-9dcc-cb9e96153b12&pbi_source=linkShare)
 - ![image](https://github.com/user-attachments/assets/70e34ee7-485e-4890-9d54-b2c22aa74491)
 
-
-
----
-
-Feel free to customize any sections or links as needed!
