@@ -1,7 +1,3 @@
-Here's a draft for your GitHub README file to showcase your Power BI portfolio:
-
----
-
 # Power BI Portfolio
 
 ## About Me
